@@ -1,4 +1,4 @@
-# CollectionBuilder-GH
+# Table Top Role Playing Games Collection
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
