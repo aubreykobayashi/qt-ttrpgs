@@ -1,6 +1,3 @@
----
-# find and count unique genres used in the metadata
----
 {%- if site.data.theme.genres-fields -%}
 {%- assign cloud-fields = site.data.theme.genres-fields | split: ";" -%}
 {% comment %} Capture all cloud terms {% endcomment %} 
