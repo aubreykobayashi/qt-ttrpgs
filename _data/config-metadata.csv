@@ -3,7 +3,7 @@ title,Title,
 designer,Designer,
 artist,Artist,
 date,Release year,
-genre,Genres, true
+genre,Genres,true
 subject,Subjects,true
 description,Summary,
-format, Format, 
+format,Format,
