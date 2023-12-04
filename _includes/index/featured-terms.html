@@ -29,6 +29,12 @@
 {% assign termsMax = include.max | default: 5 %}
 
 {% comment %} 
+    Use termsField and termsMax to customize feature 
+{% endcomment %}
+{% assign termsField = include.field | default: "genre" %}
+{% assign termsMax = include.max | default: 5 %}
+
+{% comment %} 
     Liquid below cleans and counts unique terms 
 {% endcomment %}
 {% if site.data.theme.browse-child-objects == true %}
