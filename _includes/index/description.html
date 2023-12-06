@@ -1,7 +1,8 @@
 <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title">Description</h5>
-    <p class="card-text">{{ site.description }}</p>
+    <p class="card-text">The Queer and Trans Role Playing Game Archive documents a history of queer and trans representation in ttrpgs – substantial in either game mechanics, themes, and major characters. This site was prototyped by Aubrey Kobayashi, a mlis student at the University of Pittsburgh, in conjunction with a Digital Humanities course using Collection Builder, a static web template
+    </p>
     {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
     {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
   </div>
