@@ -7,7 +7,7 @@ permalink: /contact.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html %}
+
 
 ## Contact Us
 
