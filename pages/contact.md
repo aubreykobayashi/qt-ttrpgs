@@ -12,8 +12,8 @@ credits: true
 
 Am I missing a game that you created that you would like added? Would you like to chat about this project? 
 
-My email is aubreykobayashi@gmail.com" width="150" centered=true %}
-{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+My email is [aubreykobayashi@gmail.com](aubreykobayashi@gmail.com)" width="150" centered=true %}
+{% include feature/image.html objectid="/objects/logobanner.png" %}
 
 
 
