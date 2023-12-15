@@ -6,8 +6,8 @@ permalink: /contact.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-<div class="container my-4 about-contents">
-{{ content }}
+<div class="container-fluid my-4">
+    {{ content }}
 </div>
 
 ## Contact Us
